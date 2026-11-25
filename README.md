@@ -98,7 +98,7 @@ Chinese video generation models are also world-leading:
 
 ## 🛠️ One API to Rule Them All
 
-If you don't want to manage multiple API keys, check out **[AICraft](https://aicraftapi.net)** — a unified API for Chinese and Western models. One key, one endpoint, all models.
+If you don't want to manage multiple API keys, check out **[AICraft](https://aicraftapi.net)** — a unified API for Chinese and Western models. One key, one endpoint, all models. Inside mainland China, the same API is at <https://aicraftapi.com>.
 
 ---
 
